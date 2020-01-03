@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 from IPython.display import set_matplotlib_formats
 
 ### 한글깨짐 -깨짐 방지  
+#### 첫번째 방법(window)
 ```
-첫번째 방법(window)
 from matplotlib import font_manager, rc
 
  
@@ -22,6 +22,7 @@ rc('font', family=font_name)
 matplotlib.rcParams['axes.unicode_minus'] = False
 ```
 
+#### 두번째 방법(window)
 ```
 두번째 방법(window, mac)
 import matplotlib
