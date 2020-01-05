@@ -1,6 +1,8 @@
 ### i를 문자열 중간에 넣기
 ```
+a=[]
 for i in range(1,13):
-    old_column = f"answer{i}_selected"
-    new_column = f"answer{i}_selected(bool)"
+    a.append(f"answer{i}_selected")
+    
+print(a)
 ```
