@@ -53,6 +53,8 @@ plt.figure(figsize=(10,5))
 ```
 
 ## lim
-```plt.ylim(0, 1)```
+```PYTHON3
+plt.ylim(0, 1)
+```
 
 
