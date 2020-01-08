@@ -10,17 +10,10 @@ from IPython.display import set_matplotlib_formats
 #### 첫번째 방법(window)
 ```PYTHON3
 from matplotlib import font_manager, rc
-
- 
-
 import matplotlib
 
- 
-
 font_name = font_manager.FontProperties(fname="c:/Windows/Fonts/malgun.ttf").get_name()
-
 rc('font', family=font_name)
-
 matplotlib.rcParams['axes.unicode_minus'] = False
 ```
     
