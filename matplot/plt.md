@@ -23,8 +23,9 @@ rc('font', family=font_name)
 
 matplotlib.rcParams['axes.unicode_minus'] = False
 ```
-\n
-\n
+    
+    
+    
 #### 두번째 방법(window,mac)
 ```PYTHON3
 import matplotlib
