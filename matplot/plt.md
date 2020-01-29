@@ -51,4 +51,7 @@ plt.figure(figsize=(10,5))
 plt.ylim(0, 1)
 ```
 
-
+### sns에서 x 축 기울기
+```python3
+plt.xticks(rotation=30,ha='right')
+```
