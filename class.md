@@ -17,13 +17,13 @@ c2=Car()
 c3=Car()
 ```
 
-#생성자
+# 생성자
 ```python3
 def __init__(self):
     code
 ```
-#소멸자
-## 프로그램이 종료되면 돌아가는 함수
+# 소멸자
+### 프로그램이 종료되면 돌아가는 함수
 ```python3
 def __del__(self):
     code
