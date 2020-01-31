@@ -140,8 +140,8 @@ t2의 test가 t1의 test 위에서 작동한다. 즉 t1의 test는 작동을 안
 굳이 t1의 test를 돌리고 싶으면 t2 클래스 test 함수 안에
 super().test()  <- t1의 test 작동
 code <- t2 test 작동 내용을 작성하면 된다.
-
-
+```
+```python3
 class T1:
     i=4
     def __add__(self, other): # self가 c1 // other가 c2 가 된다.
