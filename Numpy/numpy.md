@@ -41,6 +41,9 @@ np.arange(30).reshape(-1,5)
 
 np.arange(0,5,0.5)  #r의 rep
 
+np.linspace(0,10,10)   # r의 seq
+
+
 # zeros, ones
 np.zeros(shape=(10,), dtype=np.int8)
 np.zeros(shape=(5,5), dtype=np.int8)
