@@ -38,6 +38,9 @@ matplotlib.rc('font', family="AppleGothic")
 ```PYTHON3
 figure, axex = plt.subplots(nrows=?, ncols=?)
 axes[3][1]등으로 
+
+plt.tight_layout()  # 간격 조정
+ax1.set(ylabel='Count',title="연도별 대여량")
 ```
 
 ## 창 크기
