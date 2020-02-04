@@ -1,5 +1,5 @@
-import matplotlib.pyplot as plt
-
+일반적인 설정
+import matplotlib
 ## 기타 설정
 ### 선명하게 보기
 ```PYTHON3
@@ -32,9 +32,12 @@ matplotlib.rc('fon', family="Malgun Gothic")
 matplotlib.rc('fon', family="AppleGothic")
 ```
 
+
+사이즈, 창 갯수 등은 import matplotlib.pyplot as plt
 ## 창 갯수
 ```PYTHON3
-figure, ax = plt.subplots(nrows=1, ncols=1)
+figure, axex = plt.subplots(nrows=?, ncols=?)
+axes[3][1]등으로 
 ```
 
 ## 창 크기
