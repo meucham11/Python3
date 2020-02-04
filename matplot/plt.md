@@ -25,11 +25,11 @@ import matplotlib
 import seaborn as sns
 
 # Windows
-matplotlib.rc('fon', family="NanumGothic")
-matplotlib.rc('fon', family="Malgun Gothic")
+matplotlib.rc('font', family="NanumGothic")
+matplotlib.rc('font', family="Malgun Gothic")
 
 # Mac
-matplotlib.rc('fon', family="AppleGothic")
+matplotlib.rc('font', family="AppleGothic")
 ```
 
 
