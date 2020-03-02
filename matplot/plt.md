@@ -61,3 +61,21 @@ plt.ylim(0, 1)
 ```python3
 plt.xticks(rotation=30,ha='right')
 ```
+
+### 여러개 그리기
+```python3
+
+plt.figure(figsize=[15,25])
+plt.subplots_adjust(left = 0, bottom = 0, right = 1, top = 1, hspace = 1, wspace = 0.5)
+cols = 3
+rows = 13 
+
+for i in range(1,38):
+    #
+    plt.subplot(rows, cols, i)
+    plt.title(cat[i-1])  
+    df_cat=psm[psm['CLAC1_NM']==cat[i-1]]
+    sns.countplot(data=df_cat,x='month')
+
+plt.show()
+```
