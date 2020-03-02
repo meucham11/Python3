@@ -36,7 +36,7 @@ matplotlib.rc('font', family="AppleGothic")
 사이즈, 창 갯수 등은 import matplotlib.pyplot as plt
 ## 창 갯수
 ```PYTHON3
-figure, axex = plt.subplots(nrows=?, ncols=?)
+figure, axes = plt.subplots(nrows=?, ncols=?)
 axes[3][1]등으로 
 
 plt.tight_layout()  # 간격 조정
