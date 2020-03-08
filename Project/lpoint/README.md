@@ -1,6 +1,6 @@
 # Lpoint 공모전 Business 측면 분석
 ----
-## [00_lpoint_EDA][eda]
+## [00_lpoint_EDA][eda]  Click!
 
 [eda]: https://github.com/meucham11/Python3/blob/master/Project/lpoint/00_lpoint_EDA.ipynb "EDA"
 ### 1. setting 및 data read
@@ -9,7 +9,7 @@
 
 
 ----
-## [00_lpoint_EDA][analysis]
+## [00_lpoint_EDA][analysis]   Click!
 
 [analysis]:https://github.com/meucham11/Python3/blob/master/Project/lpoint/00_lpoint_EDA.ipynb "EDA"
 
