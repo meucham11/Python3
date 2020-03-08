@@ -9,9 +9,9 @@
 
 
 ----
-## [00_lpoint_EDA][analysis]   Click!
+## [01_lpoint_analysis][analysis]   Click!
 
-[analysis]:https://github.com/meucham11/Python3/blob/master/Project/lpoint/00_lpoint_EDA.ipynb "EDA"
+[analysis]:https://github.com/meucham11/Python3/blob/master/Project/lpoint/01_lpoint_analysis.ipynb
 
 
 ### 1. 범주별 시각화
