@@ -8,9 +8,9 @@
 
 [vina]:https://github.com/meucham11/Python3/tree/master/Project/vinatech
 
-03_[log_analysis][log] : 모바일 사용자 로그 데이터를 이용한 
+03_[log_analysis][log] : 모바일 사용자 로그 데이터를 이용한 분석
 
-[log]:https://github.com/meucham11/Python3/tree/master/Project/vinatech
+[log]:https://github.com/meucham11/Python3/tree/master/Project/log_analysis
 
 
 
