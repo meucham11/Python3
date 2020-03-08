@@ -1,7 +1,6 @@
 # Lpoint 공모전 Business 측면 분석
 ----
-## 
-[00_lpoint_EDA][eda]
+## [00_lpoint_EDA][eda]
 
 [eda]: https://github.com/meucham11/Python3/blob/master/Project/lpoint/00_lpoint_EDA.ipynb "EDA"
 ### 1. setting 및 data read
@@ -10,7 +9,11 @@
 
 
 ----
-## 01_lpoint_analysis
+## [00_lpoint_EDA][analysis]
+
+[analysis]:https://github.com/meucham11/Python3/blob/master/Project/lpoint/00_lpoint_EDA.ipynb "EDA"
+
+
 ### 1. 범주별 시각화
  - 막대그래프
  - 지도그리기
