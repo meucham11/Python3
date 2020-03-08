@@ -8,7 +8,7 @@
 
 [vina]:https://github.com/meucham11/Python3/tree/master/Project/vinatech
 
-03_[log_analysis][log] : 배터리 제조 회사에서 통계데이터 분석 인턴
+03_[log_analysis][log] : 모바일 사용자 로그 데이터를 이용한 
 
 [log]:https://github.com/meucham11/Python3/tree/master/Project/vinatech
 
