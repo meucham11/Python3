@@ -3,7 +3,7 @@
 ## 
 [00_lpoint_EDA][eda]
 
-[eda]: Project/lpoint/00_lpoint_EDA.ipynb "Go google"
+[eda]: https://github.com/meucham11/Python3/blob/master/Project/lpoint/00_lpoint_EDA.ipynb "EDA"
 ### 1. setting 및 data read
 ### 2. 각각의 자료 살펴보기
 ### 3. merge 이후 피쳐 선택/결측치 
