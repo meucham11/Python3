@@ -6,7 +6,7 @@
 
 ----
 
-[Assignment][Assignment]
+[Assignment][Assignment] 클릭!
 
 [Assignment]:https://github.com/meucham11/Python3/blob/master/Project/vinatech/cap.ipynb
 
