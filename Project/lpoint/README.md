@@ -1,5 +1,9 @@
 # Lpoint 공모전 Business 측면 분석
 ----
+[Portfolio][p] 홈으로
+
+[p]:https://github.com/meucham11/Portfolio
+----
 ## [00_lpoint_EDA][eda]  Click!
 
 [eda]: https://github.com/meucham11/Python3/blob/master/Project/lpoint/00_lpoint_EDA.ipynb "EDA"
