@@ -1,5 +1,7 @@
 ** 서재원 **
 
+**↓↓파란색 글씨(링크)를 클릭해주세요**
+
 01_[L.point][lpoint] : 구매 고객의 데이터를 가지고 EDA 및 분석
 
 [lpoint]: https://github.com/meucham11/Python3/tree/master/Project/lpoint
