@@ -6,7 +6,7 @@
 
 [lpoint]: https://github.com/meucham11/Python3/tree/master/Project/lpoint
 ```
-다양한 시각화 방법과 전처리 및 상품군별 선호지수 산출과 수요 예측
+다양한 시각화 방법과 전처리 및 분석
 
 작업인원 : 3인 팀. 의견 나누며 코딩은 각자
 
