@@ -1,7 +1,7 @@
 ```python3
 result1 = []
 for i in range(10):
-  result.appen(i)
+  result.append(i)
 result1
 
 
