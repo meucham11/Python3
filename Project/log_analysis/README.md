@@ -1,5 +1,5 @@
 
-01_[kmong][kmong] : 
+[01_kmong 클릭][kmong] : 
 ```
 # 주제 : 처음 앱 설치한 고객을 대상으로 분석을 해보자. 
  1.처음 앱 설치한 고객을 대상으로 가입을 완료 한 고객  who_first_install_signup(free_df)
@@ -10,7 +10,7 @@
 ```
 [kmong]:https://github.com/meucham11/Python3/blob/master/Project/log_analysis/01_kmong_int.ipynb
 
-02_[zigzag][zigzag] : 
+[02_zigzag 클릭][zigzag] : 
 ```
 # 주제 : 지그재그 이용 고객 행동분석
  1. 시각화 및 EDA, 전처리
