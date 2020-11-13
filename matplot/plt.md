@@ -63,6 +63,7 @@ plt.xticks(rotation=30,ha='right')
 ```
 
 ### x축 마음대로 지정하기
+## sns.lineplot   및  plot 다 가능
 포인트는 x를 str로 바꾸는것
 ```python3
 test.index=list(test['weeknum'])
@@ -78,6 +79,12 @@ plt.show()
 ![q1](https://user-images.githubusercontent.com/34879309/99043760-1031ef80-25d2-11eb-8880-485231f7e166.PNG)
 ![q2](https://user-images.githubusercontent.com/34879309/99043762-10ca8600-25d2-11eb-92f9-a0dcf2375c72.PNG)
 </br>
+
+## sns.boxplot
+```python3
+sns.boxplot(data=env_data,x='WeekNum',y=env,order=env_data['WeekNum'].unique())
+```
+
 
 ### 여러개 그리기
 ```python3
