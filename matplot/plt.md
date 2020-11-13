@@ -62,6 +62,23 @@ plt.ylim(0, 1)
 plt.xticks(rotation=30,ha='right')
 ```
 
+### x축 마음대로 지정하기
+포인트는 x를 str로 바꾸는것
+```python3
+test.index=list(test['weeknum'])
+result=test.loc[list(test_env['weeknum'].unique())].reset_index(drop=True)
+result['weeknum']=result['weeknum'].astype(str)
+
+fig, ax = plt.subplots(1,1)
+ax.plot(result['weeknum'], result["내부온도"])
+ax.set_xticklabels(result.weeknum)
+plt.show()
+```
+
+![q1](https://user-images.githubusercontent.com/34879309/99043760-1031ef80-25d2-11eb-8880-485231f7e166.PNG)
+![q2](https://user-images.githubusercontent.com/34879309/99043762-10ca8600-25d2-11eb-92f9-a0dcf2375c72.PNG)
+</br>
+
 ### 여러개 그리기
 ```python3
 
